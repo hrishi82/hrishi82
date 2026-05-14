@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Hrishikesh Barman</h1>
 
-📌 Currently learning react 
-
 📌 I believe in functionality, but I believe in beautiful designs as well and that the two need not be mutually exclusive for a particular product to work. 
 
 
